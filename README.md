@@ -1,1 +1,23 @@
 # sf2.learn
+
+When executed $ composer require 'symfony/symfony:~2.8'
+	1. doctrine/annotations v1.2.7 ( Docblock Annotations Parser )
+	2. doctrine/cache v1.6.2 ( Caching library offering an object-oriented API for many cache backends )
+	3. doctrine/collections v1.3.0 ( Collections Abstraction library )
+	4. doctrine/common v2.6.2 ( Common Library for Doctrine projects )
+	5. doctrine/inflector v1.1.0 ( Common String Manipulations with regard to casing and singular/plural rules. )
+	6. doctrine/lexer v1.0.1 ( Base library for a lexer that can be used in Top-Down, Recursive Descent Parsers. )
+	7. ircmaxell/password-compat v1.0.4 ( A compatibility library for the proposed simplified password hashing algorithm: https://wiki.php.net/rfc/password_hash )
+	8. paragonie/random_compat v2.0.11 ( PHP 5.x polyfill for random_bytes() and random_int() from PHP 7 )
+	9. psr/log 1.0.2 ( Common interface for logging libraries )
+	10. symfony/polyfill-apcu v1.7.0 ( Symfony polyfill backporting apcu_* functions to lower PHP versions )
+	11. symfony/polyfill-intl-icu v1.7.0 ( Symfony polyfill for intl's ICU-related data and classes )
+	12. symfony/polyfill-mbstring v1.7.0 ( Symfony polyfill for the Mbstring extension )
+	13. symfony/polyfill-php54 v1.7.0 ( Symfony polyfill backporting some PHP 5.4+ features to lower PHP versions )
+	14. symfony/polyfill-php55 v1.7.0 ( Symfony polyfill backporting some PHP 5.5+ features to lower PHP versions )
+	15. symfony/polyfill-php56 v1.7.0 ( Symfony polyfill backporting some PHP 5.6+ features to lower PHP versions )
+	16. symfony/polyfill-php70 v1.7.0 ( Symfony polyfill backporting some PHP 7.0+ features to lower PHP versions )
+	17. symfony/polyfill-util v1.7.0 ( Symfony utilities for portability of PHP codes )
+	18. symfony/security-acl v3.0.1 ( Symfony Security Component - ACL (Access Control List) )
+	19. symfony/symfony v2.8.36 ( The Symfony PHP framework )
+	20. twig/twig v1.35.3 ( Twig, the flexible, fast, and secure template language for PHP ) 
